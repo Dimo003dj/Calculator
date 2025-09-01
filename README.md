@@ -82,12 +82,32 @@ Calculator/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+---
+
+### ✅ Also create a `LICENSE` file
+
+Add a file named `LICENSE` in your repo root with the MIT License text:
+
+```text
+MIT License
+
+Copyright (c) 2025 Dimo003dj
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[... rest of MIT license text ...]
+
 
 ---
 
 ## 👨‍💻 Author
 
-**Dibyajyoti Mohanty**  
-📧 Email: dibyajyotimty508@gmail.com  
+**Dibyajyoti Mohanty**
+📧 Email: dibyajyotimty508@gmail.com
 GitHub: [@Dibyajyoti03](https://github.com/Dibyajyoti03)
+```
